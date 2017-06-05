@@ -1,3 +1,4 @@
 #我的Blog
 ----------
-[https://cjade.github.io/MyBlog](https://cjade.github.io/MyBlog){:target="_blank"}
+<a href="https://cjade.github.io/MyBlog" target="_blank">https://cjade.github.io/MyBlog</a>
+
